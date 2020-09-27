@@ -10,7 +10,7 @@ git clone https://github.com/frok-hub/Freehack
 ```
 Now, Navigate to Freephish Directory
 ```bash
-cd Freephish
+cd Freehack
 ```
 Install the requirements by
 ```bash
@@ -18,7 +18,7 @@ bash setup.sh
 ```
 Run it 
 ```bash
-./freephish.sh
+./Freehack.sh
 ```
 
 ## Note
